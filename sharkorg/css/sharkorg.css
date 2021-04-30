@@ -1,18 +1,9 @@
-<head>
-<style>
-
-body {
-  background-image: url(images/underwater.jpg);
-  background-position: center;
-     }
-      
-
-h1 {
-    font-family: 'Special Elite', cursive;
-    font-size: 80px;
-   }
-    
-</style>
-</head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+h1{
+  font-family: 'Special Elite', cursive;
+  font-size: 80px;
+  color: black;
+}
 
 
