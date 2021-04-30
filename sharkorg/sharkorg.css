@@ -1,61 +1,19 @@
 <head>
-<title>Shark Org</title>
-
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Special+Elite&display=swap" rel="stylesheet">
 
-<body background="underwater.jpg" style="background-repeat:no-repeat;background-size:100% 100% 100%"> 
 
 <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
 
-li {
-  float: left;
-  border-right:1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  background-color: #111;
-}
-
-.active {
-  background-color: #1679C8;
-}
+body {
+     background="underwater.jpg" style="background-repeat:no-repeat;background-size:100% 100% 100%";
+     }
+      
 
 h1 {
     font-family: 'Special Elite', cursive;
-    font-size: 70px;
-        text-align: center;
-    color: #000000
-    }
-
+    font-size: 80px;
+   }
+    
 </style>
 </head>
-<body>
-
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">Shark Facts</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About Us</a></li>
-</ul>
-
-</body>
