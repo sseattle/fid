@@ -1,5 +1,6 @@
 <head>
 <title>Shark Org</title>
+
 <body background="underwater.jpg" style="background-repeat:no-repeat;background-size:100% 100% 100%"> 
 
 <style>
@@ -35,6 +36,14 @@ li a:hover:not(.active) {
 .active {
   background-color: #1679C8;
 }
+
+h1 {
+    font-family: 'Special Elite', cursive;
+    font-size: 70px;
+        text-align: center;
+    color: #000000
+    }
+
 </style>
 </head>
 <body>
