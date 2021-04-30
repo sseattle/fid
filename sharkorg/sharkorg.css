@@ -3,7 +3,7 @@
 <style>
 
 body {
-  background-image: url(images/underwater.jpg);
+  background-image: url("underwater.jpg");
   background-position: center;
      }
       
